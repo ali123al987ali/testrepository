@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Categories
+title: Categories2
 icon: fas fa-stream
 order: 1
 ---
