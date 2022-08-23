@@ -23,10 +23,10 @@ timezone: America/Kentucky/Louisville
 
 title: Chirpy                          # the main title
 
-tagline: My first project...   # it will display as the sub-title
+tagline: Myst's Repository   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+ A documentation site for my future portfolio.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ali123al987ali.github.io/testrepository/'
@@ -45,7 +45,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/ali123al987ali       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.facebook.com/photo/?fbid=6006008419427708&set=a.5747782501916969&__cft__[0]=AZVGsjBv2eEbmyDnolQpjMLo1NfiVavwY5UQ_w2IpQ_cLLIIo1LRiB_f2Q74WfiKfjA_V8PqYLJ_CbE16am-c6oPzMhLFEqBVncj_IYB-YdT0w&__tn__=EH-R
+avatar: https://avatars.githubusercontent.com/u/108588623?s=400&u=bc8976be76556d428d30712e2d410223bbc2c42b&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
