@@ -16,7 +16,7 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:America/Kentucky/Louisville
+timezone: America/Kentucky/Louisville
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: yi.jpg
+avatar: https://www.facebook.com/photo/?fbid=6006008419427708&set=a.5747782501916969&__cft__[0]=AZVGsjBv2eEbmyDnolQpjMLo1NfiVavwY5UQ_w2IpQ_cLLIIo1LRiB_f2Q74WfiKfjA_V8PqYLJ_CbE16am-c6oPzMhLFEqBVncj_IYB-YdT0w&__tn__=EH-R
 
 # boolean type, the global switch for ToC in posts.
 toc: true
