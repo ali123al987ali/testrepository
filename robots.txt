@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://ali123al987ali.github.io/testrepository//sitemap.xml
